@@ -1,0 +1,1 @@
+import{S as c,i,s as l,e as d,t as h,c as p,a as m,h as _,d as o,g as f,J as u,K as n}from"./vendor-8d39b5cc.js";function g(r){let e,s;return{c(){e=d("h3"),s=h("a page")},l(a){e=p(a,"H3",{});var t=m(e);s=_(t,"a page"),t.forEach(o)},m(a,t){f(a,e,t),u(e,s)},p:n,i:n,o:n,d(a){a&&o(e)}}}class v extends c{constructor(e){super();i(this,e,null,g,l,{})}}export{v as default};
